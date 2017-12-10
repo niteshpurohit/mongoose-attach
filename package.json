@@ -1,6 +1,6 @@
 {
     "name": "mongoose-attach",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "description": "Attach files to MongoDB models via Mongoose.js",
     "main": "index.js",
     "scripts": {
